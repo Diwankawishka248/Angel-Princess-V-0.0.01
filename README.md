@@ -3,7 +3,7 @@
 # ANGEL PRINCE V 0.00.01
 
 <p align="center">
-  <a href="https://github.com/Ethix-Xsid"><img src="http://readme-typing-svg.herokuapp.com?color=red&center=true&vCenter=true&multiline=false&lines=Ethix-MD-+v2+MultiDevice;Developed+by+Ethix~Xsid;Give+star+and+forks+this+Repo+🌟" alt="EthixReadme"></a>
+  <a href="https://readme-typing-svg.herokuapp.com?color=red&center=true&vCenter=true&multiline=false&lines=ZED+CODEOWNERS;DASSANAYAKE;Developed+by+DIWAA;තරුවක්+දාලා;ලයික්+කරලා;තියාගන්න;මගෙ+උම්මාකැටේ+ඈ🫂😂❤️‍🩹" alt="EthixReadme"></a>
 </p>
 
 ## 🚀 Getting Started
